@@ -17,7 +17,8 @@
 - [✔]  Log Out Admin
 <br>
 
-
+### Figma Link (seller side) : https://www.figma.com/proto/rPjQk9vivGxGyPFiiewHOw/AccessDenied?node-id=2%3A5162&viewport=-5534%2C-3379%2C0.13672316074371338&scaling=contain
+### Figma Link (buyer side) : https://www.figma.com/proto/rPjQk9vivGxGyPFiiewHOw/AccessDenied?node-id=2%3A5162&viewport=-5556%2C-3379%2C0.13672316074371338&scaling=contain
 ## Instructions to run
 
 * Instructions:
